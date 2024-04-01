@@ -1,5 +1,4 @@
-##13. Figure 2. Manhattan plots of GWAS, TWAS, and FCT results for WE 49:0.
-
+##
 library(RColorBrewer)
 library(multtest)
 library(gplots)
@@ -15,7 +14,7 @@ library(data.table)
 library(tidyverse)
 #install.packages("svglite")
 library(svglite)
-
+##
 setwd("C:/Users/harel/OneDrive/Documents/")
 # Open a PDF graphics device
 #pdf("GTF_plots2.pdf", width = 16, height = 9)  # Adjust size as needed
