@@ -48,6 +48,6 @@ Much of the supporting data and output from the analyses documented here are too
 
 **Scripts 13 to 14 are related to visualizations of GWAS, TWAS, FCT test  results for WE 49:0 and GWAS hotspots in the maize genome.**
 
-13. Figure 2. Manhattan plots of GWAS, TWAS, and FCT results for WE 49:0.
+13. Figure 3. Manhattan plots of GWAS, TWAS, and FCT results for WE 49:0.
    
-14. Figure 3. Genomic positions of GWAS hotspots in the maize genome.
+14. Figure 4. Genomic positions of GWAS hotspots in the maize genome.
