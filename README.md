@@ -1,6 +1,6 @@
 # Maize_Cuticular_Wax
-**PREPRINT**
-This repository and website documents all analyses, summary, tables and figures associated with the following PREPRINT: Integrative multi-omic analysis identifies genes associated with cuticular wax biogenesis in adult maize leaves (a place holder for the link)
+**Article**
+This repository and website documents all analyses, summary, tables and figures associated with the following: Integrative multi-omic analysis identifies genes associated with cuticular wax biogenesis in adult maize leaves (https://doi.org/10.1093/g3journal/jkae241)
 
 **Abstract**
 
